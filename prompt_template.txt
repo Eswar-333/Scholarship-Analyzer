@@ -1,0 +1,8 @@
+Based on the following student information:
+[student_details]
+
+Evaluate their eligibility for common scholarships, list possible matching scholarships with short descriptions, and provide guidance on how to improve their chances.
+Respond in three sections clearly separated by headings: 
+### Eligibility Assessment
+### Potential Scholarships
+### Application Guidance
